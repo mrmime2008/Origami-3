@@ -35,3 +35,14 @@
     transform: translate(-50%,-50%);
     opacity: 0;
 }
+.item:hover{
+    transform: scale(1.2);
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: green;
+}
+
+
